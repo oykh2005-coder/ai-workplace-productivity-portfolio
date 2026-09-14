@@ -2,7 +2,7 @@
 
 ## Trainee Information
 
-- **Trainee Name:** Omar
+- **Trainee Name:** Omar YOUSEF Al-Harbi
 - **Training Program:** L0-FGP — Generative AI for Workplace Productivity
 - **Instructor:** Fahad Alqahtani
 - **Date:** September 2026
