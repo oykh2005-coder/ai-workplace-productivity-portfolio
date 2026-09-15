@@ -1,5 +1,14 @@
 # AI Workplace Productivity Portfolio — Health Informatics Specialist
+# Generative AI for Workplace Productivity
 
+This project is part of the Generative AI for Workplace Productivity program at SDAIA Academy.
+
+Trainee: Omar Yousef Alharbi  
+Trainer: Fahad Alqahtani  
+Course Code: L0-FGP  
+Official Academy Account: SDAIAAcademy
+
+Note: The course code L0-FGP does not represent a certificate or assessment result.
 ## Trainee Information
 
 - **Trainee Name:** Omar YOUSEF Al-Harbi
