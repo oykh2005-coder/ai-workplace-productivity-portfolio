@@ -7,7 +7,7 @@ Trainee: Omar Yousef Alharbi
 Trainer: Fahad Alqahtani  
 Course Code: L0-FGP  
 Official Academy Account: SDAIAAcademy
-
+**Official SDAIA Academy GitHub:** [SDAIAAcademy](https://github.com/SDAIAAcademy)
 Note: The course code L0-FGP does not represent a certificate or assessment result.
 ## Trainee Information
 
